@@ -14,5 +14,5 @@ This project is a GUI-based system that controls a motor (dispenser) for a custo
 
 ## How to Run
 1. Connect motor to GPIO 4 via relay/transistor
-2. Run: `python3 smart_dispenser.py`
+2. Run: `python3 WaterPump.py`
 3. Use the GUI to control the motor
